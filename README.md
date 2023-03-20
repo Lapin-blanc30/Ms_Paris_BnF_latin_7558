@@ -35,7 +35,7 @@ Alice Leflaëc, _Transcription des f. 104v-124r du Ms Paris BnF Latin 7558_, Uni
 ```bibtex
 @misc{leflaecHTR2023,
     author = "Alice Leflaëc"
-    title = "Transcription des f. 104v-124r du Ms Paris BnF Latin 755"
+    title = "Transcription des f. 104v-124r du Ms Paris BnF Latin 7558"
     date = "2023"}
 ``    
     
